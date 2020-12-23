@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@google-cloud/language": "^4.2.1",
+    "dotenv": "^8.2.0",
     "ruqqus-js": "^3.5.3"
   },
   "type": "module"
