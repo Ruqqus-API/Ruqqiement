@@ -3,7 +3,8 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "@google-cloud/language": "^4.2.1"
+    "@google-cloud/language": "^4.2.1",
+    "ruqqus-js": "^3.5.3"
   },
   "type": "module"
 }
